@@ -1,2 +1,3 @@
 # computational_biology-practice
-Problems solved while learning computational biology
+This repository contains problems I solved while learning computational biology:
+python and datastructure
