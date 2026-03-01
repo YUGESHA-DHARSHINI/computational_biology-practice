@@ -1,0 +1,15 @@
+01-03-2026
+basic class and object defining
+class Gene:
+    def __init__(self,gene_name):
+        self.gene_name = gene_name
+    def express(self):
+        print("gene",self.gene_name,"is expressed")
+g1= Gene("BRAC1")
+g2= Gene("SHA5")
+g1.express()
+g2.express()
+
+output:
+gene BRAC1 is expressed
+gene SHA5 is expressed
